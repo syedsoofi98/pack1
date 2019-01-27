@@ -1,5 +1,5 @@
 n=int(input())
-i°1
+i=1
 summ=0
 while i<=n:
        summ=summ+i
